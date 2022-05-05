@@ -2,10 +2,10 @@
 Este es el repositorio de la clase de  la clase de Bioinformatica semestre 20221
 #BIOINFORMATICA 20221
 ## DATOS PERSONALES
--Galilea Pazmiño
--Ecuador
--Estudiante
--Español
+- Galilea Pazmiño
+- Ecuador
+- Estudiante
+- Español
 
 ## DETALLES DEL EQUIPO
 1.Windows 10
